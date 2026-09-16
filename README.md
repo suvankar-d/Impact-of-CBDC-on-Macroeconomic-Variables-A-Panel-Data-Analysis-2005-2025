@@ -197,7 +197,6 @@ The Stata files are separated into:
 - `CBDC_Analysis.do` — data setup, panel declaration, diagnostics, regressions and Hausman tests.
 - `CBDC_Graphs.do` — graph-generation commands only.
 
-The exact raw dataset was **not included in the two supplied materials**, so the code uses placeholder import/setup sections that should be connected to the original `.dta`, `.csv`, or Excel dataset before execution.
 
 ## References
 
